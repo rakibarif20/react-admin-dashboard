@@ -1,0 +1,11 @@
+Installed packages for this project 
+
+yarn add @syncfusion/ej2-popups
+yarn add @syncfusion/ej2-react-charts
+yarn add @syncfusion/ej2-react-grids
+yarn add @syncfusion/ej2-react-calendars
+yarn add @syncfusion/ej2-react-schedule
+yarn add @syncfusion/ej2-react-kanban
+yarn add @syncfusion/ej2-react-richtexteditor
+yarn add @syncfusion/ej2-react-inputs
+yarn add @syncfusion/ej2-react-charts
